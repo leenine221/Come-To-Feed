@@ -29,9 +29,9 @@ is an intelligent pet feeding device, realized through careful design and techno
 
 **Application scenario**
 
--Households with pets, pet shops
--Unattended pets on occasional short-term business trips
--Caring about pet's eating status
+- Households with pets, pet shops
+- Unattended pets on occasional short-term business trips
+- Caring about pet's eating status
 
 -------------------
 
@@ -49,8 +49,8 @@ is an intelligent pet feeding device, realized through careful design and techno
 
 Complete by March 25.
 
--1) Prepare materials before February 28
+- 1) Prepare materials before February 28
 
--2) Embedded development and cloud development from March 1-20
+- 2) Embedded development and cloud development from March 1-20
 
--3) Overall commissioning before March 15
+- 3) Overall commissioning before March 15
