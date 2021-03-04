@@ -13,6 +13,7 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 -------------------
 
 **应用场景**
+
 -宠物家庭、宠物商店
 -功能:“远程养猫养狗"的需求在不断上升,使用宠物喂食器，可以定时喂食，周定时循环，食量可选;手机可操控，点击选择喂食份量;可以看喂食记录;余粮不足告警;语音播放。
 
