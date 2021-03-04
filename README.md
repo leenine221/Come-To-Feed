@@ -10,6 +10,15 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 - 余粮不足告警;
 - 语音播放;
 
+**ComeToFeed** 
+is an intelligent pet feeding device, realized through careful design and technology, and with the powerful functions of Tuya IoT, it brings an unprecedented intelligent feeding experience. Features overview:
+
+- Regular feeding, weekly regular cycle, food quantity optional;
+- Controlled by mobile app, you can choose the amount of feeding;
+- Can view feeding records;
+- Insufficient food warning;
+- Voice playback;
+- 
 -------------------
 
 **应用场景**
