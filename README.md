@@ -18,7 +18,7 @@ is an intelligent pet feeding device, realized through careful design and techno
 - Can view feeding records;
 - Insufficient food warning;
 - Voice playback;
-- 
+
 -------------------
 
 **应用场景**
