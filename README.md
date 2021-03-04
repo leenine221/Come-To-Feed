@@ -21,15 +21,17 @@ is an intelligent pet feeding device, realized through careful design and techno
 
 -------------------
 
-**应用场景**
+**应用情景**
 
-- 宠物家庭、宠物商店
-- 功能:“远程养猫养狗"的需求在不断上升,使用宠物喂食器，可以定时喂食，周定时循环，食量可选;
-- 手机可操控，点击选择喂食份量;
-- 可以看喂食记录;
-- 余粮不足告警;
-- 语音播放。
+- 饲养宠物的家庭、宠物商店
+- 偶尔短期出差而的无人照料宠物
+- 关心宠物的进食状况
 
+**Application scenario**
+
+-Households with pets, pet shops
+-Unattended pets on occasional short-term business trips
+-Caring about pet's eating status
 
 -------------------
 
@@ -42,3 +44,13 @@ is an intelligent pet feeding device, realized through careful design and techno
 - 2）3月1-20日嵌入式开发、云开发
 
 - 3）3月15日前整体调试
+
+**Development Plan**
+
+Complete by March 25.
+
+-1) Prepare materials before February 28
+
+-2) Embedded development and cloud development from March 1-20
+
+-3) Overall commissioning before March 15
